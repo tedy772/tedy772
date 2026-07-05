@@ -1,16 +1,4 @@
-< align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tedy%20Argo%20Pratama&fontSize=40&animation=fadeIn" width="100%" alt="Header Banner" />
-</>
-
-<p align="center">
-  <a href="mailto:argotedy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-argotedy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://ungu.in/tedycertificate" target="_blank">
-    <img src="https://img.shields.io/badge/Portofolio-Sertifikat-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sertifikat">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Siap%20Berkontribusi-green?style=for-the-badge" alt="Status">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tedy%20Argo%20Pratama&fontSize=40&animation=fadeIn" width="100%" alt="Header Banner" />
 
 ---
 
@@ -44,17 +32,18 @@ Saya memiliki ketertarikan yang tinggi serta keahlian dalam bidang **Web Develop
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-#### 🐍 Data Science & Databases
+#### 🧠 Data Science, AI, & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/square/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Machine%20Learning-34A853?style=flat-square&logo=probot&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 #### ⚙️ UI/UX & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
@@ -62,15 +51,6 @@ Saya memiliki ketertarikan yang tinggi serta keahlian dalam bidang **Web Develop
 
 ### 📊 Statistik GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedy772&show_icons=true&theme=radical&rank_icon=github" alt="Statistik GitHub Tedy" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedy772&layout=compact&theme=radical" alt="Bahasa Pemrograman Terbanyak" height="180" />
-</p>
+[![Statistik GitHub Tedy](https://github-readme-stats.vercel.app/api?username=tedy772&show_icons=true&theme=default&rank_icon=github)](https://github.com/tedy772)
 
----
-
-### 📫 Hubungi Saya
-
-* **Email:** argotedy@gmail.com
-* **Alamat:** Kelurahan Pondok Bahar RT.002/RW.001, Karang Tengah, Kota Tangerang, Banten
-* **Koleksi Sertifikat:** [ungu.in/tedycertificate](https://ungu.in/tedycertificate)
+[![Bahasa Pemrograman Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=tedy772&layout=compact&theme=default)](https://github.com/tedy772)
