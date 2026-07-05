@@ -51,6 +51,10 @@ Saya memiliki ketertarikan yang tinggi serta keahlian dalam bidang **Web Develop
 
 ### 📊 Statistik GitHub
 
-[![Statistik GitHub Tedy](https://github-readme-stats.vercel.app/api?username=tedy772&show_icons=true&theme=default&rank_icon=github)](https://github.com/tedy772)
-
-[![Bahasa Pemrograman Terbanyak](https://github-readme-stats.vercel.app/api/top-langs/?username=tedy772&layout=compact&theme=default)](https://github.com/tedy772)
+<p align="left">
+  <!-- Menggunakan GitHub Readme Streak Stats yang sangat stabil -->
+  <img src="https://streak-stats.demolab.com/?user=tedy772&theme=radical" alt="GitHub Streak Stats" height="180" />
+  
+  <!-- Menggunakan Profile Summary Cards Alternatif -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tedy772&theme=radical" alt="Bahasa Pemrograman Terbanyak" height="180" />
+</p>
